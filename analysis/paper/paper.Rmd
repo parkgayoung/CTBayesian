@@ -1,7 +1,7 @@
 ---
 title: "good morning"
 author:
-  - Author One
+  - gayoung Park
   - Author Two
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
